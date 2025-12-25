@@ -56,3 +56,8 @@ This project focuses on recreating the real Amazon UI layout with clean design, 
 1. Clone the repository:
 ```bash
 git clone https://github.com/Suman-2580/AMAZON-CLONE.git
+
+⚠️ Disclaimer
+
+This project is created only for learning and educational purposes.
+All brand names, logos, and images belong to Amazon.
