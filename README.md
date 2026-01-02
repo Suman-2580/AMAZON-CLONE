@@ -23,14 +23,13 @@ This project focuses on recreating the real Amazon UI layout with clean design, 
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshort:
+<img width="1912" height="951" alt="Screenshot 2026-01-02 233348" src="https://github.com/user-attachments/assets/723e2f14-0439-470d-bb56-e0f21987db4e" />
+<img width="1915" height="900" alt="Screenshot 2026-01-02 233409" src="https://github.com/user-attachments/assets/71e52b7f-d60e-42b5-9eb9-7786ac3f5d5f" />
+<img width="1919" height="901" alt="Screenshot 2026-01-02 233426" src="https://github.com/user-attachments/assets/0f025596-a744-4df2-99d7-3c2d85cfbfee" />
 
-> The UI closely follows the Amazon India homepage design including:
-- Hero banner section  
-- Product category cards  
-- Footer with multiple informational sections  
 
-*(Screenshots available in the repository)*
+
 
 ---
 
@@ -56,6 +55,8 @@ This project focuses on recreating the real Amazon UI layout with clean design, 
 1. Clone the repository:
 ```bash
 git clone https://github.com/Suman-2580/AMAZON-CLONE.git
+```bash
+git clone https://github.com/srikumar-pal/AMAZON-CLONE.git
 
 ⚠️ Disclaimer
 
